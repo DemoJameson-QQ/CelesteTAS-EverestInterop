@@ -4,6 +4,7 @@
 
 ### License: MIT
 
+
 ----
 - Install [Everest](https://everestapi.github.io/) if you haven't already.
 - Use the 1-click installer [here](https://gamebanana.com/tools/6715) or [download the latest autobuild](https://nightly.link/EverestAPI/CelesteTAS-EverestInterop/workflows/NetFramework.Legacy.CI/master/CelesteTAS.zip) and put it in the game_path/mods folder.
